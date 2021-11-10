@@ -1,0 +1,1 @@
+%~dp0wininfo.exe >> wininfo.log
